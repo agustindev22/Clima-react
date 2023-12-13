@@ -1,0 +1,55 @@
+
+
+body{
+    background-color: rgba(135, 206, 250, 0.889);
+    text-align: center;
+    padding: 20px;
+    font-family: sans-serif
+}
+h1{
+    font-weight: 900;
+    font-size: 36px;
+    color:black;
+}
+.buscador{
+ background-color: rgba(26, 90, 129, 0.891);
+ border:solid 0 ;
+ border-radius: 6px;
+ width: 250px;
+ height: 20px;
+ color:rgba(248, 243, 243, 0.868);
+ font-size: 20px;
+ text-align: center;
+ align-items: center;
+}
+.btn{
+    background-color:rgb(26, 89, 129);
+    color:whitesmoke;
+    text-decoration: none;
+    border: solid 0 ;
+    border-radius: 20px;
+    cursor: pointer;
+    margin-left: 10px;
+    font-size: 15px;
+    padding: 7px;
+    font-weight: 700;
+}
+ .ciudades{
+    color: rgba(245, 245, 245, 0.778);
+    font-size: 30px;
+    font-weight: 900;
+    text-align: center;
+
+ }
+.temp-con{
+    color: rgba(245, 245, 245, 0.744);
+    font-weight: 900;
+    font-size: 20px;
+
+}
+.icon{
+    margin-top: 20px;
+   width:150px;
+   height: 150px;
+   text-align: center;
+}
